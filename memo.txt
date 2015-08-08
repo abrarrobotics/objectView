@@ -1,0 +1,5 @@
+テキスト表示
+
+	(参考) 【Unity】【C#】【JavaScript】4.6.x の Canvas～UI Text のテキストをコードで変更する
+	http://fantom1x.blog130.fc2.com/blog-entry-158.html
+
